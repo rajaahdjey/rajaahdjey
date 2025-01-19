@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-Total Time: 2 hrs 38 mins
+Total Time: 25 mins
 
-Python   2 hrs 38 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Python   25 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
